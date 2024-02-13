@@ -1,4 +1,4 @@
-Microservices Serverless IBM Coursera Full Stack courses
+Microservices Serverless IBM Full Stack courses | Coursera
 
 Main goals:
 - Deploy application on Code Engine and Create APIs.
