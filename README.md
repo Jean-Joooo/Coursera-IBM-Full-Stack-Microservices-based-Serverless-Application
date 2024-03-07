@@ -1,4 +1,4 @@
-# Coursera | Microservices Serverless IBM Full Stack courses
+# Coursera | IBM Full Stack courses: Microservices Serverless
 
 Main goals :
 
